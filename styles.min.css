@@ -75,7 +75,8 @@ nav a,
 footer p:hover,
 i {
     text-decoration: none;
-    color: #FF9F45
+     color: rgb(14, 10, 7);
+    
 }
 
 nav,
